@@ -48,11 +48,27 @@ As expected, questions of embodiment and presence pervade the literature on onli
 
 * Wikity: Bring your bookmarks into the digital age
 * Artifact type: Blog post / guide for using wikity (federated wiki) for bookmarking
-* Screenshot
+* Screenshot: Online_wikity_bookmarking
 * Source URL: https://hapgood.us/2016/03/04/bring-your-bookmarks-into-the-hypertext-age/
 * Artifact permissions: Wikity content is CC-BY-SA
 * Creator and Affiliation: Mike Caulfield, Washington State University - Vancouver
-* Annotation: 
+* Annotation: Wikity is a federated wiki environment created by Mike Caulfield. Mike's writings about the benefits of federated wikis are worth reading. In brief, wikity allows a user to write and maintain individually-controlled wiki pages and to make editable copies of others' wiki pages. According to Caulfield, wikity captures some of the best characteristics of blogs (individual voice and control) with the best characteristics of wikis (collaboration, sharing) by allowing users to maintain connected copies of information. Wikity could be used in an online course for students to create bookmarks and libraries of resources that are connected to resources written by others in their class and outside of their class. 
+
+* ds106 Assignment Bank creator
+* Artifact type: Github repository
+* Screenshot: Online_ds106_AssignmentBank
+* Source URL: https://github.com/cogdog/ds106bank
+* Artifact permissions: No specific license noted, but Alan is clearly open to reuse
+* Creator and Affiliation: Alan Levine
+* Annotation: This Github repository could enable students to author their own Assignments bank and build a community around the assignments they create. The Assignments Bank model has been used by a number of online courses and communities, many of which are listed on Levine's Github page. 
+
+* ThoughtVectors in Concept Space syllabus
+* Artifact type: Syllabus
+* Screenshot
+* Source URL: http://thoughtvectors.net/syllabus/
+* Artifact permissions: Wikity content is CC-BY-SA
+* Creator and Affiliation: Gardner Campbell, / Virginia Commonwealth University
+* Annotation: This artifact could be considered an example of both authorship and community. Thought Vectors, a course offered at Virginia Commonwealth University, gives each students their own space on the web in the model of [Domain of One's Own](https://medium.com/bright/the-web-we-need-to-give-students-311d97713713#.y7hguujk3). Students participate in the course via their authored environments. Additional information on participation in the community can be found on the [Thought Vectors](http://thoughtvectors.net/how-to-participate/) website.
 
 ### Community
 
@@ -70,7 +86,7 @@ As expected, questions of embodiment and presence pervade the literature on onli
 * Source URL: http://thoughtvectors.net/syllabus/
 * Artifact permissions: Wikity content is CC-BY-SA
 * Creator and Affiliation: Gardner Campbell, / Virginia Commonwealth University
-* Annotation: Additional information on participation in the community here: http://thoughtvectors.net/how-to-participate/
+* Annotation: 
 
 ### Presence
 

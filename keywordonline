@@ -38,39 +38,47 @@ As expected, questions of embodiment and presence pervade the literature on onli
 
 ### Authorship
 
-* Fork U! Resource Page
-* Artifact type: Assignments, guide for learning and using Github
-* Screenshot: Online-forku-assignments
-* Source URL: http://oudiglearn.github.io/forku/
-* Artifact permissions: CC-BY 4.0
-* Creator and Affiliation: Adam Croom, John Stewart / University of Oklahoma
-* Annotation: Github provides a unique platform for authorship, collaboration, and peer review and educators are beginning to explore how Github could be used in their classrooms. This resource, assembled for a presentation at the Online Learning Consortium's Innovate conference, provides low-barrier and forkable activities instructors and/or students can complete. All of the resources on this site are forkable (i.e., they can be copied and reused). Any changes made to a "forked" copy do not impact the original "master" unless a pull request is accepted. Other examples of resources on Github include this [Musicianship syllabus](http://kris.shaffermusic.com/musicianshipResources/), course materials for [Humanizing Technology](https://github.com/karlstolley/ht), assignments for [Fashioning Circuits](https://github.com/fashioning-circuits), and peer assessment activities for a course on [Reproducible Data](https://github.com/rdpeng/RepData_PeerAssessment1). 
-
-* Wikity: Bring your bookmarks into the digital age
-* Artifact type: Blog post / guide for using wikity (federated wiki) for bookmarking
-* Screenshot: Online_wikity_bookmarking
-* Source URL: https://hapgood.us/2016/03/04/bring-your-bookmarks-into-the-hypertext-age/
-* Artifact permissions: Wikity content is CC-BY-SA
-* Creator and Affiliation: Mike Caulfield, Washington State University - Vancouver
-* Annotation: Wikity is a federated wiki environment created by Mike Caulfield. Mike's writings about the benefits of federated wikis are worth reading. In brief, wikity allows a user to write and maintain individually-controlled wiki pages and to make editable copies of others' wiki pages. According to Caulfield, wikity captures some of the best characteristics of blogs (individual voice and control) with the best characteristics of wikis (collaboration, sharing) by allowing users to maintain connected copies of information. Wikity could be used in an online course for students to create bookmarks and libraries of resources that are connected to resources written by others in their class and outside of their class. 
-
 * ds106 Assignment Bank creator
 * Artifact type: Github repository
-* Screenshot: Online_ds106_AssignmentBank
+* Screenshot: Online_ds106_AssignmentBank.png
 * Source URL: https://github.com/cogdog/ds106bank
 * Artifact permissions: No specific license noted, but Alan is clearly open to reuse
 * Creator and Affiliation: Alan Levine
 * Annotation: This Github repository could enable students to author their own Assignments bank and build a community around the assignments they create. The Assignments Bank model has been used by a number of online courses and communities, many of which are listed on Levine's Github page. 
 
+* Fork U! Resource Page
+* Artifact type: Assignments, guide for learning and using Github
+* Screenshot: Online-forku-assignments.png
+* Source URL: http://oudiglearn.github.io/forku/
+* Artifact permissions: CC-BY 4.0
+* Creator and Affiliation: Adam Croom, John Stewart / University of Oklahoma
+* Annotation: Github provides a unique platform for authorship, collaboration, and peer review and educators are beginning to explore how Github could be used in their classrooms. This resource, assembled for a presentation at the Online Learning Consortium's Innovate conference, provides low-barrier and forkable activities instructors and/or students can complete. All of the resources on this site are forkable (i.e., they can be copied and reused). Any changes made to a "forked" copy do not impact the original "master" unless a pull request is accepted. Other examples of resources on Github include this [Musicianship syllabus](http://kris.shaffermusic.com/musicianshipResources/), course materials for [Humanizing Technology](https://github.com/karlstolley/ht), assignments for [Fashioning Circuits](https://github.com/fashioning-circuits), and peer assessment activities for a course on [Reproducible Data](https://github.com/rdpeng/RepData_PeerAssessment1). 
+
 * ThoughtVectors in Concept Space syllabus
 * Artifact type: Syllabus
-* Screenshot
+* Screenshot: Online-thoughtvectors-syllabus.png
 * Source URL: http://thoughtvectors.net/syllabus/
-* Artifact permissions: Wikity content is CC-BY-SA
+* Artifact permissions: Not specifically noted
 * Creator and Affiliation: Gardner Campbell, / Virginia Commonwealth University
 * Annotation: This artifact could be considered an example of both authorship and community. Thought Vectors, a course offered at Virginia Commonwealth University, gives each students their own space on the web in the model of [Domain of One's Own](https://medium.com/bright/the-web-we-need-to-give-students-311d97713713#.y7hguujk3). Students participate in the course via their authored environments. Additional information on participation in the community can be found on the [Thought Vectors](http://thoughtvectors.net/how-to-participate/) website.
 
+* Wikity: Bring your bookmarks into the digital age
+* Artifact type: Blog post / guide for using wikity (federated wiki) for bookmarking
+* Screenshot: Online_wikity_bookmarking.png
+* Source URL: https://hapgood.us/2016/03/04/bring-your-bookmarks-into-the-hypertext-age/
+* Artifact permissions: Wikity content is CC-BY-SA
+* Creator and Affiliation: Mike Caulfield, Washington State University - Vancouver
+* Annotation: Wikity is a federated wiki environment created by Mike Caulfield. Mike's writings about the benefits of federated wikis are worth reading. In brief, wikity allows a user to write and maintain individually-controlled wiki pages and to make editable copies of others' wiki pages. According to Caulfield, wikity captures some of the best characteristics of blogs (individual voice and control) with the best characteristics of wikis (collaboration, sharing) by allowing users to maintain connected copies of information. Wikity could be used in an online course for students to create bookmarks and libraries of resources that are connected to resources written by others in their class and outside of their class. 
+
 ### Community
+
+* clMOOC
+* Artifact type: Online community and course
+* Screenshot: Online-clmooc-course.png
+* Source URL: http://clmooc.educatorinnovator.org/2015/
+* Artifact permissions: CC-BY-SA 4.0
+* Creator and Affiliation: Educator Innovator / National Writing Project
+* Annotation: This artifact shows how an online course can be designed to intentionally foster community. Every activity, every design choice, centers on the community. clMOOC makes explicit its goal of connected learning and provides ample opportunities for learners to connect (see examples of Twitter chats, Make Cycles, Blog Hub, Make Bank, and social tools). 
 
 * FemTechNet: Key Learning Projects
 * Artifact type: Assignments
@@ -78,17 +86,26 @@ As expected, questions of embodiment and presence pervade the literature on onli
 * Source URL: http://femtechnet.org/get-involved/self-directed-learners/key-learning-project/
 * Artifact permissions: Copyright FemTechNet, but assignments appear to be available for reuse
 * Creator and Affiliation: FemTechNet organizers
-* Annotation: 
+* Annotation: FemTechNet is called a DoCC -- Distributed Open Collaborative Course. 
 
-* ThoughtVectors in Concept Space syllabus
-* Artifact type: Syllabus
-* Screenshot
+* The Daily Connector
+* Artifact type: Assignments
+* Screenshot: Online_ccourses_dailyconnector.png
 * Source URL: http://thoughtvectors.net/syllabus/
 * Artifact permissions: Wikity content is CC-BY-SA
 * Creator and Affiliation: Gardner Campbell, / Virginia Commonwealth University
-* Annotation: 
+* Annotation: The Daily Connector provides activities and assignments that aim to grow connections between individuals in a course or across multiple courses. These activities encourage community building online as part of intentional daily practice. An instructor could replicate the activities in her class to stimulate the creation of a vibrant and active community of learners in online spaces.
 
 ### Presence
+
+* Annotation Flash Mob
+* Artifact type: Blog post with links to assignment details
+* Screenshot: Online-blogpost-annotationflashmob.png
+* Source URL: https://gamesandlearning.wordpress.com/2016/04/27/about-that-annotation-flash-mob/
+* Artifact permissions: Unclear, but assignment details are publicly available
+* Creator and Affiliation: Remi Holden / CU Denver
+* Annotation: Inspired by Sean Michael Morris' [Teaching in our right minds: Critical Digital Pedagogy and the Response to the New](http://www.digitalpedagogylab.com/hybridped/teaching-in-our-right-minds/) Remi Holden organized an annotation flash mob in his course, where his students were already using hypothes.is for collaborative annotation. Holden's blog post with instructions on how to participate in the flash mob [is here](https://gamesandlearning.wordpress.com/2016/04/24/an-annotation-flash-mob-invitation/). The annotation flash mob is a fascinating example of bringing eventness to the collaborative web. Several of Holden's students and many individuals outside of the course jumped in to annotate Morris' article. One participant's comments captured the feeling of eventness, "“Love[d] getting to play in the digital annotation flashmob – I’m reminded of the frequently referenced analogy of the digital mimicking sandbox play." 
+More generally, instructors are using hypothes.is in their courses for collaborative annotation, as in this [example from Brian Watkins at Austin College](http://acdigitalpedagogy.org/category/hypothes-is/).
 
 * The Daily Create
 * Artifact type: Assignments
@@ -96,28 +113,7 @@ As expected, questions of embodiment and presence pervade the literature on onli
 * Source URL: http://daily.ds106.us/
 * Artifact permissions: CC-0
 * Creator and Affiliation: Alan Levine
-* Annotation: The Daily Create involves daily activities that help faculty and students remain actively engaged and present in a course. Daily Create activities like these can minimize feelings of interpersonal distance by motivating continuous participation.  
-
-* Annotation Flash Mob
-* Artifact type: Blog post with links to assignment details
-* Screenshot:
-* Source URL: https://gamesandlearning.wordpress.com/2016/04/27/about-that-annotation-flash-mob/
-* Artifact permissions: Unclear, but assignment details are publicly available
-* Creator and Affiliation: Remi Holden / CU Denver
-* Annotation: Info about annotation storm --- Holden's blog post with instructions on how to participate in the flash mob is here: https://gamesandlearning.wordpress.com/2016/04/24/an-annotation-flash-mob-invitation/
-More generally, instructors are using hypothes.is in their courses for collaborative annotation, as in the example from Brian Watkins at Austin College: http://acdigitalpedagogy.org/category/hypothes-is/
-
-* Title of Artifact (as it appears on the actual "document")
-* Artifact Type: Pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work.
-* Screenshot (PNG or JPG), titled “keyword artifact title,” e.g. “work-AfAm-syllabus.png”
-* Source URL 
-* Artifact Permissions (note whether content is shared under a Creative Commons license)
-* Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
-* Creator and Affiliation
-* An annotation of **no more than 150 words** that includes:
-	* Brief statement of aim/purpose of the artifact (what is it?) 
-	* Brief statement on its relevance to your keyword (why is it important/useful, what does it do well, how does it exemplify digital pedagogy) 
-	* Guidelines for use (how to integrate it into a course, what might need revision/adaptation)
+* Annotation: The Daily Create involves daily activities that help faculty and students remain actively engaged and present in a course. Daily Create activities like these can minimize feelings of interpersonal distance by motivating continuous participation. Daily Create activities are brief and have low barriers to entry; the key is to provide easy and interesting ways for students to remain engaged, thus contributing to the eventness of the course.  
 
 
 ## RELATED MATERIALS
